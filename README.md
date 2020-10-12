@@ -1,4 +1,4 @@
-# WeBuiltBotsTest
+# WeBuildBotsTest
 
 This repo contains two node.js programs as part of the We Build Bots coding test.
 
