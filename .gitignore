@@ -1,3 +1,7 @@
+# Custom Ignores
+Part2_API/node_modules
+Part1_NameCounter/OTwistNameCount.txt
+
 # Logs
 logs
 *.log
